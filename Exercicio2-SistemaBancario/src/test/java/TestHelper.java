@@ -1,5 +1,3 @@
-import org.Agencia;
-import org.Banco;
 import org.Conta;
 import org.Dinheiro;
 import org.Entrada;
